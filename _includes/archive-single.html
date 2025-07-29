@@ -79,6 +79,16 @@
     {% elsif post.bibtexurl %}
       <p><a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
     {% endif %}
+    {% if post.certificateurl %}
+      <p><a href="{{ post.certificateurl }}">Download Certificate</a></p>
+    {% endif %}
+    
+    {% if post.certificateimg %}
+      <div style="margin-top: 0.5em;">
+        <img src="{{ post.certificateimg }}" alt="Certificate" style="max-width:100px; border: 1px solid #ccc; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);" />
+      </div>
+    {% endif %}
+
 
   </article>
 </div>
