@@ -1,14 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Low-Power FPGA-Based Accelerator for Medical Image Segmentation: A Hardware-Oriented Simulation Study"
 collection: publications
-category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+category: conferences
+permalink: /publication/2025-09-15-fpga-medseg
+excerpt: 'This paper presents a power-efficient FPGA accelerator for medical image segmentation, based entirely on simulation studies.'
+date: 2025-09-15
+venue: '30th International Conference on Applied Electronics (AE 2025)'
+citation: 'Qianyue Wang. (2025). "Low-Power FPGA-Based Accelerator for Medical Image Segmentation: A Hardware-Oriented Simulation Study." <i>30th International Conference on Applied Electronics (AE)</i>.'
+certificateimg: '/images/certificate/ae2025.png'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+The paper introduces a low-power FPGA-based accelerator for medical image segmentation. A complete Verilog simulation workflow is used to validate functionality and energy efficiency without requiring a physical board. The work is accepted for presentation at AE 2025 and the final version is currently being prepared.
+
+For access to the paper or presentation slides, please contact the author directly.
