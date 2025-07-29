@@ -1,6 +1,7 @@
 ---
 title: "Dynamic Voltage and Frequency Scaling (DVFS) Strategy for FPGA-Based Edge AI Inference"
 collection: publications
+category: conferences
 permalink: /publication/2025-06-23-dvfs-fpga
 excerpt: 'This paper proposes a workload-aware DVFS mechanism on FPGA for edge AI inference, targeting energy efficiency under variable load.'
 date: 2025-06-23
@@ -11,3 +12,6 @@ citation: 'Qianyue Wang. (2025). "Dynamic Voltage and Frequency Scaling (DVFS) S
 ---
 
 The paper introduces a novel Dynamic Voltage and Frequency Scaling (DVFS) framework for FPGA-based edge AI systems. It aims to reduce power consumption without compromising inference latency. The proposed architecture is verified via Verilog simulation.
+
+
+
