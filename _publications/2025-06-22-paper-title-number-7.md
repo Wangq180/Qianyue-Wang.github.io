@@ -17,4 +17,4 @@ The contents above will be part of a list of publications, if the user clicks th
 
 ### Presentation Certificate
 
-![Presentation Certificate](/images/isie2025-certificate.png)
+![Presentation Certificate](/images/isie2025_certificate.png)
