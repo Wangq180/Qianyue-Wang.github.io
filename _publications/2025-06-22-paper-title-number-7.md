@@ -6,7 +6,7 @@ permalink: /publication/2025-06-22-paper-title-number-7.md
 excerpt: "A Mask-Aware Latent Integration framework with NAT improves low-light image reconstruction, presented at IEEE ISIE 2025.It will be published soon"
 date: 2025-06-22 
 venue: "IEEE ISIE 2025 (Paper ID: ISIE25-000258), presentation certificate and talk attached below"
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
+slidesurl: 'https://wangq180.github.io/Qianyue-Wang.github.io/images/isie2025_certificate.png'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 certificateurl: 'https://wangq180.github.io/Qianyue-Wang.github.io/images/isie2025_certificate.png'
 citation: 'Q. Wang, "Enhancing Low-Light Image Reconstruction via Non-Autoregressive Transformers," in IEEE ISIE 2025, accepted, to appear.'
