@@ -12,7 +12,8 @@ citation: 'Q. Wang, "Enhancing Low-Light Image Reconstruction via Non-Autoregres
 keywords: [Low-Light Enhancement, Transformer, Image Reconstruction, NAT, GLARE]
 ---
 
-![Presentation Certificate](/images/isie2025_certificate.png)
+![Presentation Certificate](https://wangq180.github.io/Qianyue-Wang.github.io/images/isie2025_certificate.png)
+
 
 A Mask-Aware Latent Integration framework with NAT improves low-light image reconstruction, presented at IEEE ISIE 2025. It will be published soon.
 
