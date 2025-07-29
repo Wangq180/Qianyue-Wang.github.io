@@ -11,6 +11,4 @@ author: Qianyue Wang
 category: conference
 ---
 
-### 📜 Presentation Certificate
-![certificate](/images/isie2025_certificate.png)
 
