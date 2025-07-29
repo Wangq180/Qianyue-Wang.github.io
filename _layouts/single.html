@@ -44,74 +44,54 @@ layout: default
         </header>
       {% endunless %}
 
-      <section class="page__content" itemprop="text">
-        {{ content }}
+    <section class="page__content" itemprop="text">
+      {{ content }}
       
-        {% if page.citation and page.paperurl and page.slidesurl and page.bibtexurl and page.certificateurl %}
-          <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br />
-          <a href="{{ page.paperurl }}">Download Paper</a> |
-          <a href="{{ page.slidesurl }}">Download Slides</a> |
-          <a href="{{ page.bibtexurl }}">Download Bibtex</a> |
-          <a href="{{ page.certificateurl }}">Download Certificate</a></p>
-      
-        {% elsif page.citation and page.paperurl and page.slidesurl and page.certificateurl %}
-          <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br />
-          <a href="{{ page.paperurl }}">Download Paper</a> |
-          <a href="{{ page.slidesurl }}">Download Slides</a> |
-          <a href="{{ page.certificateurl }}">Download Certificate</a></p>
-      
-        {% elsif page.citation and page.paperurl and page.certificateurl %}
-          <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br />
-          <a href="{{ page.paperurl }}">Download Paper</a> |
-          <a href="{{ page.certificateurl }}">Download Certificate</a></p>
-      
-        {% elsif page.citation and page.certificateurl %}
-          <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br />
-          <a href="{{ page.certificateurl }}">Download Certificate</a></p>
-      
-        {% elsif page.paperurl and page.certificateurl %}
-          <p style="font-size: smaller">
-          <a href="{{ page.paperurl }}">Download Paper</a> |
-          <a href="{{ page.certificateurl }}">Download Certificate</a></p>
-      
-        {% elsif page.certificateurl %}
-          <p style="font-size: smaller">
-          <a href="{{ page.certificateurl }}">Download Certificate</a></p>
-      
-        {% elsif page.citation and page.paperurl and page.slidesurl and page.bibtexurl %}
-          <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br />
-          <a href="{{ page.paperurl }}">Download Paper</a> |
-          <a href="{{ page.slidesurl }}">Download Slides</a> |
-          <a href="{{ page.bibtexurl }}">Download Bibtex</a></p>
-      
-        {% elsif page.citation and page.paperurl and page.slidesurl %}
-          <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br />
-          <a href="{{ page.paperurl }}">Download Paper</a> |
-          <a href="{{ page.slidesurl }}">Download Slides</a></p>
-      
-        {% elsif page.citation and page.paperurl and page.bibtexurl %}
-          <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br />
-          <a href="{{ page.paperurl }}">Download Paper</a> |
-          <a href="{{ page.bibtexurl }}">Download Bibtex</a></p>
-      
-        {% elsif page.citation and page.paperurl %}
-          <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br />
-          <a href="{{ page.paperurl }}">Download Paper</a></p>
-      
-        {% elsif page.citation %}
-          <p style="font-size: smaller">Recommended citation: {{ page.citation }}</p>
-      
+      <p style="font-size: smaller">
+        {% if page.citation %}
+          Recommended citation: {{ page.citation }}<br />
         {% endif %}
-
-        {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
-        {% if page.certificateimg %}
-          <div style="margin-top: 1em;">
-            <strong>Presentation Certificate:</strong><br />
-            <img src="{{ page.certificateimg }}" alt="Certificate" style="max-width:100%; border: 1px solid #ccc; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);" />
-          </div>
+    
+        {% assign link_count = 0 %}
+        {% if page.paperurl %}
+          <a href="{{ page.paperurl }}">Download Paper</a>
+          {% assign link_count = link_count | plus: 1 %}
         {% endif %}
+    
+        {% if page.slidesurl %}
+          {% if link_count > 0 %} | {% endif %}
+          <a href="{{ page.slidesurl }}">Download Slides</a>
+          {% assign link_count = link_count | plus: 1 %}
+        {% endif %}
+    
+        {% if page.bibtexurl %}
+          {% if link_count > 0 %} | {% endif %}
+          <a href="{{ page.bibtexurl }}">Download Bibtex</a>
+          {% assign link_count = link_count | plus: 1 %}
+        {% endif %}
+    
+        {% if page.certificateurl %}
+          {% if link_count > 0 %} | {% endif %}
+          <a href="{{ page.certificateurl }}">Download Certificate</a>
+        {% endif %}
+      </p>
+    
+      {% if page.link %}
+        <div>
+          <a href="{{ page.link }}" class="btn">
+            {{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}
+          </a>
+        </div>
+      {% endif %}
+    
+      {% if page.certificateimg %}
+        <div style="margin-top: 1em;">
+          <strong>Presentation Certificate:</strong><br />
+          <img src="{{ page.certificateimg }}" alt="Certificate" style="max-width:100%; border: 1px solid #ccc; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);" />
+        </div>
+      {% endif %}
+    </section>
 
-      </section>
 
       <footer class="page__meta">
         {% if site.data.ui-text[site.locale].meta_label %}
