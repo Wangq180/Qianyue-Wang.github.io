@@ -6,6 +6,7 @@ excerpt: 'This paper proposes a workload-aware DVFS mechanism on FPGA for edge A
 date: 2025-06-23
 venue: '2025 IEEE 34th International Symposium on Industrial Electronics (ISIE)'
 paperurl: '/files/dvfs_fpga_ISIE25-000257.pdf'
+certificateurl: 'https://wangq180.github.io/Qianyue-Wang.github.io/images/isie2025_certificate2.png'
 citation: 'Qianyue Wang. (2025). "Dynamic Voltage and Frequency Scaling (DVFS) Strategy for FPGA-Based Edge AI Inference." <i>2025 IEEE 34th International Symposium on Industrial Electronics (ISIE)</i>. ISIE25-000257.'
 certificateimg: '/images/certificate/isie25_257.png'
 ---
