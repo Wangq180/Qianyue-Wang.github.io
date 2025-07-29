@@ -8,6 +8,7 @@ date: 2025-06-22
 venue: "IEEE ISIE 2025 (Paper ID: ISIE25-000258), presentation certificate and talk attached below"
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+certificateurl: 'https://wangq180.github.io/Qianyue-Wang.github.io/images/isie2025_certificate.png'
 citation: 'Q. Wang, "Enhancing Low-Light Image Reconstruction via Non-Autoregressive Transformers," in IEEE ISIE 2025, accepted, to appear.'
 keywords: [Low-Light Enhancement, Transformer, Image Reconstruction, NAT, GLARE]
 ---
