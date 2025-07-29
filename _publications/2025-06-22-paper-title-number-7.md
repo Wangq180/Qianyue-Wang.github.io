@@ -2,7 +2,7 @@
 title: "Enhancing Low-Light Image Reconstruction via Non-Autoregressive Transformers: A Mask-Aware Latent Integration Framework"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2025-06-22-paper-title-number-7.md
 excerpt: "A Mask-Aware Latent Integration framework with NAT improves low-light image reconstruction, presented at IEEE ISIE 2025.It will be published soon"
 date: 2025-06-22 
 venue: "IEEE ISIE 2025 (Paper ID: ISIE25-000258), presentation certificate and talk attached below"
