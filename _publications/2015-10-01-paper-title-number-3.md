@@ -14,5 +14,3 @@ category: conference
 ### 📜 Presentation Certificate
 ![certificate](/images/isie2025_certificate.png)
 
-### 🎥 Presentation Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/你的ID" frameborder="0" allowfullscreen></iframe>
