@@ -1,4 +1,3 @@
-
 ---
 title: "A new frontier in electronics manufacturing: Optimized deep learning techniques for PCB image reconstruction"
 collection: publications
