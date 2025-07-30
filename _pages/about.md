@@ -9,13 +9,31 @@ redirect_from:
 
 ## Biography
 
-Hi! I'm <span style="color:#007acc">Qianyue Wang</span>, an undergraduate student in <a href="https://www.eng.mcmaster.ca/mechatronics/" target="_blank">Mechatronics Engineering</a> at <a href="https://www.mcmaster.ca/" target="_blank">McMaster University</a>, Canada.
+<p>Hi! I'm <span style="color:#007acc">Qianyue Wang</span>, an undergraduate student majoring in 
+<a href="https://www.eng.mcmaster.ca/mechatronics/" target="_blank">Mechatronics Engineering</a> at 
+<a href="https://www.mcmaster.ca/" target="_blank">McMaster University</a>, Canada.</p>
 
-My research started in the field of <span style="color:#007acc">computer vision and image processing</span>, focusing on topics like image reconstruction, low-light enhancement, and PCB image understanding. More recently, I’ve been diving into <span style="color:#007acc">hardware-efficient AI</span>, particularly building <span style="color:#007acc">low-power embedded systems</span> and designing <span style="color:#007acc">FPGA-based accelerators</span> for real-time medical AI applications.
+<p>My research journey began in the domain of 
+<span style="color:#007acc">computer vision and image processing</span>, where I explored deep learning techniques for 
+image reconstruction, low-light image enhancement, and PCB image understanding. I have developed and evaluated 
+generative models such as MAE and VQGAN, and contributed to benchmark datasets and evaluation metrics in this field.</p>
 
-I enjoy bridging the gap between <span style="color:#007acc">machine learning</span> and <span style="color:#007acc">hardware design</span> to create systems that are not only accurate but also efficient and deployable in edge environments.
+<p>Recently, I have shifted my focus toward 
+<span style="color:#007acc">hardware-aware AI</span>, where I design 
+<span style="color:#007acc">low-power embedded systems</span> and implement 
+<span style="color:#007acc">FPGA-based accelerators</span> for medical AI applications. My work includes optimizing inference 
+latency and energy efficiency through techniques such as DVFS (Dynamic Voltage and Frequency Scaling), and building 
+simulation-based workflows for edge deployment without requiring physical FPGA boards.</p>
 
-You can check out my work on the [📄 Publications](https://wangq180.github.io/Qianyue-Wang.github.io/publications/) and [🧪 Research Projects](https://wangq180.github.io/Qianyue-Wang.github.io/portfolio/) pages.
+<p>I am passionate about bridging 
+<span style="color:#007acc">machine learning algorithms</span> with 
+<span style="color:#007acc">hardware architecture design</span>, aiming to create intelligent systems that are not only accurate, 
+but also resource-efficient and deployable in real-world environments such as hospitals, factories, and remote health monitoring platforms.</p>
+
+<p>I enjoy working at the intersection of algorithms and hardware, and I am always excited to collaborate on interdisciplinary projects. 
+You can learn more about my work on the 
+<a href="https://wangq180.github.io/Qianyue-Wang.github.io/publications/" target="_blank">📄 Publications</a> and 
+<a href="https://wangq180.github.io/Qianyue-Wang.github.io/portfolio/" target="_blank">🧪 Research Projects</a> pages.</p>
 
 ---
 
@@ -49,3 +67,9 @@ A complete CV is available [here](/cv/).
 
 </div>
 
+---
+
+## Education
+
+🎓 **BEng in Mechatronics Engineering, 2026 (Expected)**  
+[McMaster University](https://www.mcmaster.ca/), Canada
