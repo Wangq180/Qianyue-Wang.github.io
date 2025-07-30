@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Qianyue Wang | Mechatronics, Edge AI, FPGA Systems"
+title: "Qianyue Wang | Mechatronics Engineer"
 author_profile: true
 redirect_from: 
   - /about/
@@ -16,6 +16,7 @@ She has published several papers in the fields of **deep learning**, **computer 
 She is also interested in bridging **machine learning algorithms** with **hardware-oriented architectures**, aiming to deliver **efficient and deployable solutions** for AI-driven diagnostics in embedded environments.
 
 For a complete list of her publications and projects, please visit the [Publications](/publications/) and [Research](/research/) pages.
+For a complete list of my publications and projects, please visit the [Publications](https://wangq180.github.io/Qianyue-Wang.github.io/publications/) and [Research](https://wangq180.github.io/Qianyue-Wang.github.io/portfolio/) pages.
 
 ---
 
