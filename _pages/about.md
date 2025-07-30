@@ -9,26 +9,27 @@ redirect_from:
 
 ## Biography
 
-Hi! I'm **Qianyue Wang**, an undergraduate student in [Mechatronics Engineering](https://www.eng.mcmaster.ca/mechatronics/) at [McMaster University](https://www.mcmaster.ca/), Canada.  
+Hi! I'm <span style="color:#007acc">Qianyue Wang</span>, an undergraduate student in <a href="https://www.eng.mcmaster.ca/mechatronics/" target="_blank">Mechatronics Engineering</a> at <a href="https://www.mcmaster.ca/" target="_blank">McMaster University</a>, Canada.
 
-My academic journey began in the field of **computer vision**, where I worked on problems like image reconstruction, low-light image enhancement, and PCB image understanding using generative models such as MAE and VQGAN. I have authored several papers in this area, including one accepted at *IEEE ISIE 2025*.  
+My research started in the field of <span style="color:#007acc">computer vision and image processing</span>, focusing on topics like image reconstruction, low-light enhancement, and PCB image understanding. More recently, I’ve been diving into <span style="color:#007acc">hardware-efficient AI</span>, particularly building <span style="color:#007acc">low-power embedded systems</span> and designing <span style="color:#007acc">FPGA-based accelerators</span> for real-time medical AI applications.
 
-More recently, my research interests have expanded into **hardware-aware AI**. I’m exploring **FPGA-based Edge AI acceleration**, **low-power embedded systems**, and **medical AI inference optimization**, particularly using **DVFS (Dynamic Voltage and Frequency Scaling)** and resource-aware control strategies.  
+I enjoy bridging the gap between <span style="color:#007acc">machine learning</span> and <span style="color:#007acc">hardware design</span> to create systems that are not only accurate but also efficient and deployable in edge environments.
 
-My goal is to bridge the gap between AI algorithms and real-world hardware deployment — delivering efficient, scalable solutions for embedded and medical applications.  
+You can check out my work on the [📄 Publications](https://wangq180.github.io/Qianyue-Wang.github.io/publications/) and [🧪 Research Projects](https://wangq180.github.io/Qianyue-Wang.github.io/portfolio/) pages.
 
-📚 For a complete list of my work, please check out the [Publications](https://wangq180.github.io/Qianyue-Wang.github.io/publications/) and [Research](https://wangq180.github.io/Qianyue-Wang.github.io/portfolio/) pages.  
-📄 My full CV is available [here](/cv/).
+---
+
+A complete CV is available [here](/cv/).
 
 ---
 
 ## Interests
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+<div style="display: flex; justify-content: space-between;">
 
-<div style="flex: 0 0 48%;">
+<div style="width: 48%;">
 
-### 🌄 Computer Vision & Image Processing
+### 🌅 <span style="color:#007acc">Computer Vision & Image Processing</span>
 
 - Deep Learning for Image Reconstruction  
 - Low-Light Image Enhancement  
@@ -37,9 +38,9 @@ My goal is to bridge the gap between AI algorithms and real-world hardware deplo
 
 </div>
 
-<div style="flex: 0 0 48%;">
+<div style="width: 48%;">
 
-### 🛠️ Embedded & Hardware-Aware AI
+### 🛠️ <span style="color:#007acc">Embedded & Hardware-Aware AI</span>
 
 - FPGA-based Edge AI Acceleration  
 - Low-Power Embedded Systems  
@@ -49,10 +50,3 @@ My goal is to bridge the gap between AI algorithms and real-world hardware deplo
 </div>
 
 </div>
-
----
-
-## Education
-
-🎓 **BEng in Mechatronics Engineering, 2026 (Expected)**  
-[McMaster University](https://www.mcmaster.ca/), Canada
