@@ -9,38 +9,43 @@ redirect_from:
 
 ## Biography
 
-**Qianyue Wang** is an undergraduate student in [Mechatronics Engineering](https://www.eng.mcmaster.ca/mechatronics/) at [McMaster University](https://www.mcmaster.ca/), Canada. Her early research focuses on **computer vision**, **image processing**, and **image reconstruction**, where she has published multiple papers on visual restoration, deep learning-based PCB analysis, and benchmark dataset construction.  
+Hi! I'm **Qianyue Wang**, an undergraduate student in [Mechatronics Engineering](https://www.eng.mcmaster.ca/mechatronics/) at [McMaster University](https://www.mcmaster.ca/), Canada.  
 
-More recently, her research interests have expanded toward the intersection of **hardware-efficient AI systems**, with a strong focus on **FPGA-based edge acceleration**, **low-power embedded computing**, and **real-time medical AI inference**. She is currently working on projects involving **dynamic voltage and frequency scaling (DVFS)** on FPGAs and the design of **domain-specific accelerators** for medical image segmentation.  
+My academic journey began in the field of **computer vision**, where I worked on problems like image reconstruction, low-light image enhancement, and PCB image understanding using generative models such as MAE and VQGAN. I have authored several papers in this area, including one accepted at *IEEE ISIE 2025*.  
 
-Qianyue aims to bridge **deep learning algorithms** with **hardware-aware system design**, enabling efficient and deployable solutions for **AI-driven diagnostics** in resource-constrained embedded environments.
+More recently, my research interests have expanded into **hardware-aware AI**. I’m exploring **FPGA-based Edge AI acceleration**, **low-power embedded systems**, and **medical AI inference optimization**, particularly using **DVFS (Dynamic Voltage and Frequency Scaling)** and resource-aware control strategies.  
 
-For a complete list of her publications and ongoing projects, please visit the [Publications](https://wangq180.github.io/Qianyue-Wang.github.io/publications/) and [Research](https://wangq180.github.io/Qianyue-Wang.github.io/portfolio/) pages.
+My goal is to bridge the gap between AI algorithms and real-world hardware deployment — delivering efficient, scalable solutions for embedded and medical applications.  
 
----
-
-A complete CV is available [here](/cv/).
+📚 For a complete list of my work, please check out the [Publications](https://wangq180.github.io/Qianyue-Wang.github.io/publications/) and [Research](https://wangq180.github.io/Qianyue-Wang.github.io/portfolio/) pages.  
+📄 My full CV is available [here](/cv/).
 
 ---
 
 ## Interests
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; font-size: 0.95rem;">
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
 
 <div style="flex: 0 0 48%;">
-<strong>🖼️ Computer Vision & Image Processing</strong>
+
+### 🌄 Computer Vision & Image Processing
+
 - Deep Learning for Image Reconstruction  
 - Low-Light Image Enhancement  
 - PCB Image Understanding  
-- Generative Models (e.g. MAE, VQGAN)  
+- Generative Models (e.g. MAE, VQGAN)
+
 </div>
 
 <div style="flex: 0 0 48%;">
-<strong>🔧 Embedded & Hardware-Aware AI</strong>
+
+### 🛠️ Embedded & Hardware-Aware AI
+
 - FPGA-based Edge AI Acceleration  
 - Low-Power Embedded Systems  
 - Medical AI Inference Optimization  
-- DVFS & Resource-Aware Controllers  
+- DVFS & Resource-Aware Controllers
+
 </div>
 
 </div>
