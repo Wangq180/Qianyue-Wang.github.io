@@ -16,9 +16,9 @@ redirect_from:
 <p>My research journey began in the domain of 
 <span style="color:#007acc">computer vision and image processing</span>, where I explored deep learning techniques for 
 image reconstruction, low-light image enhancement, and PCB image understanding. I have developed and evaluated 
-generative models such as MAE and VQGAN, and contributed to benchmark datasets and evaluation metrics in this field.</p>
+generative models, and contributed to benchmark datasets and evaluation metrics in this field.</p>
 
-<p>Recently, I have shifted my focus toward 
+<p>In addition to this, I have also expanded my interests into 
 <span style="color:#007acc">hardware-aware AI</span>, where I design 
 <span style="color:#007acc">low-power embedded systems</span> and implement 
 <span style="color:#007acc">FPGA-based accelerators</span> for medical AI applications. My work includes optimizing inference 
@@ -51,6 +51,7 @@ A complete CV is available [here](/cv/).
       <li>Deep Learning for Image Reconstruction</li>
       <li>Low-Light Image Enhancement</li>
       <li>PCB Image Understanding</li>
+      <li>  Non-autoregressive transformer  </li>
       <li>Generative Models (e.g. MAE, VQGAN)</li>
     </ul>
   </div>
