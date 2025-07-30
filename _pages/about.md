@@ -23,30 +23,29 @@ A complete CV is available [here](/cv/).
 
 ---
 
-## Interests
+<h2>Interests</h2>
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
 
-<div style="width: 48%;">
+  <div style="width: 48%;">
+    <h3>🌅 <span style="color:#007acc;">Computer Vision & Image Processing</span></h3>
+    <ul>
+      <li>Deep Learning for Image Reconstruction</li>
+      <li>Low-Light Image Enhancement</li>
+      <li>PCB Image Understanding</li>
+      <li>Generative Models (e.g. MAE, VQGAN)</li>
+    </ul>
+  </div>
 
-### 🌅 <span style="color:#007acc">Computer Vision & Image Processing</span>
-
-- Deep Learning for Image Reconstruction  
-- Low-Light Image Enhancement  
-- PCB Image Understanding  
-- Generative Models (e.g. MAE, VQGAN)
-
-</div>
-
-<div style="width: 48%;">
-
-### 🛠️ <span style="color:#007acc">Embedded & Hardware-Aware AI</span>
-
-- FPGA-based Edge AI Acceleration  
-- Low-Power Embedded Systems  
-- Medical AI Inference Optimization  
-- DVFS & Resource-Aware Controllers
-
-</div>
+  <div style="width: 48%;">
+    <h3>🛠️ <span style="color:#007acc;">Embedded & Hardware-Aware AI</span></h3>
+    <ul>
+      <li>FPGA-based Edge AI Acceleration</li>
+      <li>Low-Power Embedded Systems</li>
+      <li>Medical AI Inference Optimization</li>
+      <li>DVFS & Resource-Aware Controllers</li>
+    </ul>
+  </div>
 
 </div>
+
