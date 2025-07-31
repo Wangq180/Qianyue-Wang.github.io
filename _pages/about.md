@@ -37,9 +37,6 @@ You can learn more about my work on the
 
 ---
 
-A complete CV is available [here](/cv/).
-
----
 
 <h2>Interests</h2>
 
