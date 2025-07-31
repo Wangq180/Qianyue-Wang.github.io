@@ -22,16 +22,17 @@ This experience ignited my passion for human-centered AI systems and laid the fo
 
 ## 🧩 Neuromorphic Intelligence & Mixed-Signal Circuits (July – August 2023)
 
-**Institution:** South China Normal University, ShangHai, China
-**Supervisor:** [Prof. Dr. Giacomo Indiveri](https://scholar.google.com/citations?user=kdHjCAMAAAAJ&hl=en)  
-University of Zurich, Institute of Neuroinformatics. Worked on **neuromorphic hardware** and brain-inspired analog circuits to emulate neural dynamics. Under Prof. Indiveri's guidance, I:
+**Institution:** ShangHai, China  
+**Supervisor:** [Prof. Dr. Giacomo Indiveri](https://scholar.google.com/citations?user=kdHjCAMAAAAJ&hl=en)
+
+Worked on **neuromorphic hardware** and brain-inspired analog circuits to emulate neural dynamics. Under Prof. Indiveri's guidance, I:
 
 - Studied synaptic dynamics and spiking neural circuits
 - Explored mixed-signal design for on-chip learning systems
 - Delivered a final talk on circuit-level implementations of STDP ([📄 see slides](https://drive.google.com/file/d/1m01NmtEKXjhTXBAF5e5LMCE1lE5W8tPg/view?usp=sharing))
 - Co-authored my first conference paper with Prof. Indiveri  
   → See [📄 Publications](https://wangq180.github.io/Qianyue-Wang.github.io/publications/)
-<img src="/images/homepage.png" alt="My Research Photo" style="width: 60%; display: block; margin: 0 auto; border-radius: 12px;" />
+
 ---
 
 ## 🌙 Low-Light Image Reconstruction with Non-Autoregressive Transformers (2024 – 2025)
