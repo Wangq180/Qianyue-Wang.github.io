@@ -32,8 +32,7 @@ Worked on **neuromorphic hardware** and brain-inspired analog circuits to emulat
 - Delivered a final talk on circuit-level implementations of STDP ([📄 see slides](https://drive.google.com/file/d/1m01NmtEKXjhTXBAF5e5LMCE1lE5W8tPg/view?usp=sharing))
 - Co-authored my first conference paper with Prof. Indiveri  
   → See [📄 Publications](https://wangq180.github.io/Qianyue-Wang.github.io/publications/)
-  
-<img src="/images/homepage.png" alt="My Research Photo" style="width: 60%; display: block; margin: 0 auto; border-radius: 10px;" />
+  → See [📄 Team Photos](https://drive.google.com/file/d/1XTj8aKRY5Vxtg-NZSpkNtpsqSX51XM8h/view?usp=sharing)
 
 ---
 
