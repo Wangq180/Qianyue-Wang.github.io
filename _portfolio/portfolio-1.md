@@ -31,10 +31,11 @@ Worked on **neuromorphic hardware** and brain-inspired analog circuits to emulat
 - Explored mixed-signal design for on-chip learning systems
 - Delivered a final talk on circuit-level implementations of STDP ([📄 View slides](https://drive.google.com/file/d/1m01NmtEKXjhTXBAF5e5LMCE1lE5W8tPg/view?usp=sharing))
 - Co-authored my first conference paper with Prof. Indiveri
-<p>
+
   → View [📄 Publications](https://wangq180.github.io/Qianyue-Wang.github.io/publications/)
+  
   → View [📄 Team Photos](https://drive.google.com/file/d/1XTj8aKRY5Vxtg-NZSpkNtpsqSX51XM8h/view?usp=sharing)
-</p>
+
 ---
 
 ## 🌙 Low-Light Image Reconstruction with Non-Autoregressive Transformers (2024 – 2025)
@@ -48,8 +49,9 @@ In this project under the ELECENG 4OJ4 research course, I explored **low-light i
 - Evaluated performance on LOL and GLARE datasets using PSNR, SSIM, and LPIPS
 - Developed a reconstruction pipeline in PyTorch and visualized latent space transitions
 - Authored a conference paper accepted by **IEEE ISIE 2025**
-<p>
-  → View [📄 Final report](https://drive.google.com/file/d/1UeG4kdlfmiiWvWWcqd7SZ2JBdkSBZ7nt/view?usp=sharing)  
+
+  → View [📄 Final report](https://drive.google.com/file/d/1UeG4kdlfmiiWvWWcqd7SZ2JBdkSBZ7nt/view?usp=sharing)
+  
   → View [📄 publication](https://wangq180.github.io/Qianyue-Wang.github.io/publications/)
-</p> 
+
 ---
