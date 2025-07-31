@@ -37,7 +37,6 @@ You can learn more about my work on the
 
 ---
 
-
 <h2>Interests</h2>
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
