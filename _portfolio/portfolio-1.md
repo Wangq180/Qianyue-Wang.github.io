@@ -33,10 +33,7 @@ Worked on **neuromorphic hardware** and brain-inspired analog circuits to emulat
 - Co-authored my first conference paper with Prof. Indiveri  
   → See [📄 Publications](https://wangq180.github.io/Qianyue-Wang.github.io/publications/)
   
-<img src="https://drive.google.com/uc?export=view&id=1XTj8aKRY5Vxtg-NZSpkNtpsqSX51XM8h" 
-     alt="My Research Photo" 
-     style="width: 60%; display: block; margin: 0 auto; border-radius: 10px;" />
-
+<img src="/images/homepage.png" alt="My Research Photo" style="width: 60%; display: block; margin: 0 auto; border-radius: 10px;" />
 
 ---
 
