@@ -2,7 +2,7 @@
 title: "Rosseau Lake College"
 collection: teaching
 permalink: /teaching/2015-spring-teaching-1
-venue: "High School,Rosseau "
+venue: "High School,Rosseau Lake "
 location: "Toronto, Canada"
 date: 2019-2021
 ---
