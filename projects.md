@@ -20,7 +20,7 @@ This project involved the design and simulation of a **cardiac pacemaker user in
 The following video demonstrates one of the simulated pacing effects from the UI interface:
 
 <iframe width="560" height="315"
-  src="https://www.youtube.com/embed/KDi4vzunNIY"
+  src="https://youtu.be/pcIr2zrzdNA"
   title="Pacemaker UI Simulation"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
