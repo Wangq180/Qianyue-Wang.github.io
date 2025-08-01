@@ -20,8 +20,6 @@ main:
   - title: "Education"
     url: /teaching/  
   
-  - title: "Blog Posts"
-    url: /year-archive/
   
   - title: "Projects"
     url: /projects/
