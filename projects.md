@@ -20,7 +20,7 @@ This project involved the design and simulation of a **cardiac pacemaker user in
 The following video demonstrates one of the simulated pacing effects from the UI interface:
 
 <iframe width="560" height="315"
-  src="https://youtu.be/pcIr2zrzdNA"
+  src="https://www.youtube.com/embed/pcIr2zrzdNA"
   title="Pacemaker UI Simulation"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -28,5 +28,25 @@ The following video demonstrates one of the simulated pacing effects from the UI
 </iframe>
 
 ---
+## 🎥 Object Tracking System (Jul 2024)
+
+<p><strong>Institution:</strong> McMaster University<br>
+<strong>Tools:</strong> Python (OpenCV), NumPy</p>
+
+<p>This project involved building a <strong>real-time object tracking system</strong> that enables users to manually select a region of interest (ROI) on video frames and track the chosen object dynamically over time.</p>
+
+<ul>
+  <li>🖱️ Implemented a user-friendly interface using OpenCV to <strong>manually draw a bounding box</strong> around the object to be tracked in a live video feed or pre-recorded footage.</li>
+  <li>🔍 Integrated multiple tracking algorithms such as <strong>CSRT</strong>, <strong>KCF</strong>, and <strong>MOSSE</strong>, with switchable backends for performance benchmarking.</li>
+  <li>⚡ Achieved real-time tracking speeds on standard hardware, with frame-by-frame object localization and bounding box updates.</li>
+  <li>🔁 Included a fallback mechanism for lost tracking, prompting user re-selection or automatic reinitialization.</li>
+  <li>📊 Evaluated tracking accuracy under various conditions including occlusion, motion blur, and lighting changes.</li>
+</ul>
+
+<p><em>The tool can be extended for gesture recognition, surveillance systems, robotics, and human-computer interaction.</em></p>
+
+<p><strong>Video Demo:</strong><br>
+The following video demonstrates how the system tracks a user-selected object in real time:</p>
+
 
 
