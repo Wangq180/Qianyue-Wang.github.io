@@ -24,7 +24,7 @@ author_profile: true
 
 ## 📄 PDF
 
-<iframe src="/files/ISIE2025-000258-Qianyue Wang.pdf" width="100%" height="700px"></iframe>
+<iframe src="/files/ISIE2025-000258-Qianyue%20Wang.pdf" width="100%" height="700px"></iframe>
 
 
 ---
