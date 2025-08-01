@@ -1,9 +1,10 @@
 ---
-layout: archive
+layout: page
 title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
+
 <iframe width="560" height="315"
   src="https://www.youtube.com/embed/KDi4vzunNIY"
   title="YouTube video player"
