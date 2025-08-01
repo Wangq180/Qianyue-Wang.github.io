@@ -10,6 +10,7 @@ author_profile: true
 ## 📸 Picture
 
 <img src="/assets/profile.png" alt="Example Image" width="500"/>
+<iframe src="/files/ISIE2025-000258-Qianyue%20Wang.pdf" width="100%" height="700px"></iframe>
 
 ---
 
