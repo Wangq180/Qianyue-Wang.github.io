@@ -16,14 +16,12 @@ main:
     
   - title: "Research"
     url: /portfolio/
+
+  - title: "Projects"
+    url: /projects/
     
   - title: "Education"
     url: /teaching/  
-  
-  
-  - title: "Projects"
-    url: /projects/
-
        
   # title: "CV"
   #  url: /cv/
