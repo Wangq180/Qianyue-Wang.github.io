@@ -4,9 +4,14 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
-<object data="/files/ISIE2025-000258-Qianyue Wang.pdf" type="application/pdf" width="100%" height="700px">
-  <p>It appears your browser does not support PDFs. <a href="/files/ISIE2025-000258-Qianyue%20Wang.pdf">Download the PDF</a>.</p>
-</object>
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/KDi4vzunNIY"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
+
 
 ---
 
