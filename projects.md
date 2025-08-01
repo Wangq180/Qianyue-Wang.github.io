@@ -9,7 +9,7 @@ author_profile: true
 
 ## 📸 Picture
 
-<img src="/_publications/profile.png" alt="Example Image" width="500"/>
+<img src="/files/profile.png" alt="Example Image" width="500"/>
 
 ---
 
